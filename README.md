@@ -1,4 +1,4 @@
-# Projetos_mestrado
+# Projetos_mestrado_descrição
 
 Projeto_final_priv: There are many different ways to protect privacy. Some are required by law, some are recommended by law, and
 some offer more protection than the law has yet to mandate. Depending on the amount of protection, a company
@@ -38,3 +38,8 @@ servers.
 • All components must operate as distributed servers within a decentralized
 architecture.
 
+Cloud_computing: This project focuses on developing the backend for a cloud application that manages collections of Lego sets. The system allows users to register, store information about their Lego sets, create auctions to sell them, and share comments. The main goal is to understand how cloud computing services can be used to build applications that are scalable, reliable, and easy to maintain.
+The backend was implemented using Azure, making use of services such as App Service for hosting the Rest API, Blob Storage for storing media files, and Cosmos DB for managing structured data. To improve performance, Redis Cache was added to handle frequently accessed information, and Azure Functions were used to automate certain tasks like updating auctions or periodic data processing. Overall, the project aims to apply cloud technologies to design a practical and efficient system for managing Lego collections.
+
+IPM_project: Creation of a website called SYNC. 
+SYNC is a web application designed to support university students and work teams in organizing and managing tasks, deadlines, communication, and study sessions. The application combines collaborative and individual elements, offering all the necessary functionalities for group coordination and academic planning in a single digital space. Its structure, inspired by the concept of servers and channels, aims to be intuitive, consistent, and suited to the real needs of users identified during the previous phases of the project.
