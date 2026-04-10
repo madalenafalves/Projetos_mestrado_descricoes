@@ -1,1 +1,40 @@
 # Projetos_mestrado
+
+Projeto_final_priv: There are many different ways to protect privacy. Some are required by law, some are recommended by law, and
+some offer more protection than the law has yet to mandate. Depending on the amount of protection, a company
+may lose the utility that the data they collected provides. At the same time, without enough protection and there
+is bound to be a data breach, compliance investigations, and a public relations nightmare.
+In this project your group will be implementing several different methods of protection, as well as attempting to
+attack some. First you will go through simple de-identification of a dataset. Then you will attack it to see how
+de-identification may not be enough. Then you will implement k-anonymity for the same dataset, and attempt the
+attack again. Finally, you will implement a differential privacy middleware that will accept queries from clients and
+respond using Laplace differential privacy.
+
+Projeto_privacidade2: The goal of this project is to analyze and improve path selection in Tor circuits, focusing on geographic privacy.
+The identified problem is that entire circuits can be located in the same country, increasing the risk of deanonymization by national authorities. The original Tor algorithm only avoids multiple nodes in the same /16 subnet, which does not guarantee protection against country-level adversaries.
+
+Projeto_final_ssc: This project focuses on the design, implementation, and experimental evaluation of a
+decentralized, oblivious Identity and Access Management (IAM) solution that must be
+integrated with the secure and searchable block-storage service previously developed in
+Project 1.
+The solution is composed of two core components of the required Oblivious IAM
+approach:
+• Oblivious Authentication Server (OAS):
+A persistent and concurrent server that manages user registration, relying solely on
+anonymous identifiers and anonymized attributes associated with registered
+anonymized identities.
+• Oblivious Access Management Server (OAMS):
+A persistent and concurrent server responsible for managing authorizations expressed
+through anonymized access control, supporting the sharing of access for GET and
+SEARCH operations in the Oblivious Block Storage service.
+• Integration of the OAS and OAMS with the Oblivious Block Storage Server
+(OBSS), a persistent and concurrent server based on the implementation from Project
+1, providing support for the same operations already implemented there.
+• Within this project, the OBSS functions as a specific resource service integrated
+into the proposed IAM architecture. The solution to be designed and developed
+must include the implementation of the OAS, the OAMS, their integration with the
+OBSS, and a client capable of using the operations provided by these oblivious
+servers.
+• All components must operate as distributed servers within a decentralized
+architecture.
+
