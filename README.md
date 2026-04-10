@@ -54,5 +54,6 @@ The backend was implemented using Azure, making use of services such as App Serv
 
 IPM_project: Creation of a website called SYNC. 
 SYNC is a web application designed to support university students and work teams in organizing and managing tasks, deadlines, communication, and study sessions. The application combines collaborative and individual elements, offering all the necessary functionalities for group coordination and academic planning in a single digital space. Its structure, inspired by the concept of servers and channels, aims to be intuitive, consistent, and suited to the real needs of users identified during the previous phases of the project.
+->   https://github.com/JoaoGoncaloNunes13/IPM-SYNC   <-
 
 Game: ia_75150_Madalena_Alves, Platform game with enemies and collectibles. Objective: Create a platform game that lasts 3 minutes and includes some obstacles along the way. Game name: Catnip.
