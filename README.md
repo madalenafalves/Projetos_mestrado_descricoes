@@ -48,6 +48,7 @@ OBSS, and a client capable of using the operations provided by these oblivious
 servers.
 • All components must operate as distributed servers within a decentralized
 architecture.
+->  https://github.com/Hlnsm/ssc-projeto2  <-
 
 Cloud_computing: This project focuses on developing the backend for a cloud application that manages collections of Lego sets. The system allows users to register, store information about their Lego sets, create auctions to sell them, and share comments. The main goal is to understand how cloud computing services can be used to build applications that are scalable, reliable, and easy to maintain.
 The backend was implemented using Azure, making use of services such as App Service for hosting the Rest API, Blob Storage for storing media files, and Cosmos DB for managing structured data. To improve performance, Redis Cache was added to handle frequently accessed information, and Azure Functions were used to automate certain tasks like updating auctions or periodic data processing. Overall, the project aims to apply cloud technologies to design a practical and efficient system for managing Lego collections.
