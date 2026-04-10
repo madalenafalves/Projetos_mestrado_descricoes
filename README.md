@@ -57,3 +57,23 @@ SYNC is a web application designed to support university students and work teams
 ->   https://github.com/JoaoGoncaloNunes13/IPM-SYNC   <-
 
 Game: ia_75150_Madalena_Alves, Platform game with enemies and collectibles. Objective: Create a platform game that lasts 3 minutes and includes some obstacles along the way. Game name: Catnip.
+
+QS_report: This is the specification for the report for QS2526p1. Two systems of non-trivial dimensions are to
+be analyzed: (1) a system specific of each group selected by the students and registered at the
+course’s wiki and (2) a system common to all groups (JHotDraw5.2) which will be used as
+benchmark. You do not need to run the systems.
+The report is intended to present 2 exploration fronts: (1, 2) reverse engineering analyses of the two
+subject systems and (3) the exploration of one of the plugins for IntelliJ used for this assignment.
+The concepts covered by the reverse engineering analyses include: (1) metrics and combinations of
+metrics, with a focus on those covered in the Lanza book; (2) code smells and design disharmonies
+covered in the Lanza and Fowler books; (3) duplicaton or code clones.
+The report should include at the beginning a section with a short presentation of the specific subject
+system, e.g., version numbers, application domain, whether is a full-fledged application or a
+framework, mode of expected use (e.g., web, standalone), build tool used. There is no need to do
+same for the common system. The report should also state de tools used. One paragraph should be
+enough.
+In case you have something useful to say about how the system analyzed it was mounted on
+IntelliJ, technical obstacles overcame, or any prior “curating” that was required, please describe
+it in the section presenting the system in a way that can be easily replicated (think of a material for a
+practical session in future editions of QS). Fortunately, such issues seem less likely for IntelliJ
+than for the Eclipse tools used in previous editions of QS.
