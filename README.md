@@ -13,6 +13,17 @@ respond using Laplace differential privacy.
 Projeto_privacidade2: The goal of this project is to analyze and improve path selection in Tor circuits, focusing on geographic privacy.
 The identified problem is that entire circuits can be located in the same country, increasing the risk of deanonymization by national authorities. The original Tor algorithm only avoids multiple nodes in the same /16 subnet, which does not guarantee protection against country-level adversaries.
 
+Projeto1_ssc: The objective of this assignment is to design and implement a client–server system using
+TCP sockets (as a possible primary solution), where the server provides a persistent, encrypted block
+storage service for clients to store files as encrypted blocks. The system must guarantee the
+confidentiality, integrity, and authenticity of stored file blocks while supporting basic file operations
+and metadata-based search functionality, providing a solution for searchable encryption of
+blockstorage contents when clients want to search files by using keywords used as metadata. This
+assignment covers network programming, operating systems, file system management, and applied
+cryptography, giving students experience in implementing secure client–server communication and
+secure storage, with practical guarantees for confidentiality, integrity, and authenticity, including a
+solution for searchable encryption.
+
 Projeto_final_ssc: This project focuses on the design, implementation, and experimental evaluation of a
 decentralized, oblivious Identity and Access Management (IAM) solution that must be
 integrated with the secure and searchable block-storage service previously developed in
