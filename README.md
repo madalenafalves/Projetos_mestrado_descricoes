@@ -78,3 +78,12 @@ IntelliJ, technical obstacles overcame, or any prior “curating” that was req
 it in the section presenting the system in a way that can be easily replicated (think of a material for a
 practical session in future editions of QS). Fortunately, such issues seem less likely for IntelliJ
 than for the Eclipse tools used in previous editions of QS.
+
+Interactive_Gallery: Projeto em openFrameworks para uma galeria 3D de imagens e videos.
+Requisitos
+Visual Studio com suporte para C++.
+openFrameworks para Visual Studio.
+Addons:
+ofxXmlSettings
+ofxOpenCv
+->   https://github.com/Hlnsm/Multimedia-Interactive-Gallery-   <-
