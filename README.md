@@ -11,7 +11,7 @@ attack again. Finally, you will implement a differential privacy middleware that
 respond using Laplace differential privacy.
 
 Projeto_privacidade2: The goal of this project is to analyze and improve path selection in Tor circuits, focusing on geographic privacy.
-The identified problem is that entire circuits can be located in the same country, increasing the risk of deanonymization by national authorities. The original Tor algorithm only avoids multiple nodes in the same /16 subnet, which does not guarantee protection against country-level adversaries.
+The identified problem is that entire circuits can be located in the same country, increasing the risk of deanonymization by national authorities. The original Tor algorithm only avoids multiple nodes in the same /16 subnet, which does not guarantee protection against country-level adversaries. ->  https://github.com/madalenafalves/projeto_privacidade2  <-
 
 Projeto1_ssc: The objective of this assignment is to design and implement a client–server system using
 TCP sockets (as a possible primary solution), where the server provides a persistent, encrypted block
