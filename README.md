@@ -23,6 +23,7 @@ assignment covers network programming, operating systems, file system management
 cryptography, giving students experience in implementing secure client–server communication and
 secure storage, with practical guarantees for confidentiality, integrity, and authenticity, including a
 solution for searchable encryption.
+->  https://github.com/madalenafalves/projeto_SSC  <-
 
 Projeto_final_ssc: This project focuses on the design, implementation, and experimental evaluation of a
 decentralized, oblivious Identity and Access Management (IAM) solution that must be
